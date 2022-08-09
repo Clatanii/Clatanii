@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Clatanii also known as "Alpha" in some contexts.</h1>
+<h1 align="center">Hi 👋, I'm Clatanii also known as "mutli-thread" in some contexts.</h1>
 <h3 align="center">A passionate script and game developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/wosaframework" target="blank"><img src="https://img.shields.io/twitter/follow/wosaframework?logo=twitter&style=for-the-badge" alt="wosaframework" /></a> </p>
