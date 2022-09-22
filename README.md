@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **WosaV2 FiveM Framework**
 
-- 🌱 I’m currently learning **complex game reversing**
+- 🌱 I’m currently learning **c++ reversing**
 
 - 👯 I’m looking to collaborate on **GTA5 research**
 
