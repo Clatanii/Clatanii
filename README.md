@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **GTA5 research**
 
-- 👨‍💻 My framework is available at [https://discord.gg/kWwwEYBXRz](https://discord.gg/kWwwEYBXRz)
+- 👨‍💻 My framework is available at [wosa.dev](https://wosa.dev/)
 
 - 💬 Ask me about **FiveM scripting & research, Lua, Py, C#, Database, SQL, API**
 
