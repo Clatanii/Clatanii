@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **FiveM scripting & research, Lua, Py, C#, Database, SQL, API**
 
-- 📫 How to reach me **clatani123123@gmail.com or/and projectwosafivem@gmail.com**
+- 📫 How to reach me **clatani123123@gmail.com or/and admin@wosa.dev**
 
 - ⚡ Fun fact **I hate frontend web development...**
 
